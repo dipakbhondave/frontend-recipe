@@ -1,0 +1,33 @@
+.recipe-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .card {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 18rem;
+    height: 250px;
+    background-color: #f8f9fa;
+    border: 2px dashed #6c757d;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+     
+    overflow: hidden;
+  }
+
+.plus{
+
+     
+     width:4pc;
+     height:4pc;
+     border-radius:50px;
+}
