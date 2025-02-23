@@ -12,7 +12,7 @@ const About = () => {
 
         {/* Right: About Content */}
         <div className="about-content">
-          <h6 className="section-title">NutriKitchen &gt; About Me</h6>
+          <h6 className="section-title">TastyTales &gt; About Me</h6>
           <h1 className="main-title">About Me</h1>
           <h5 className="sub-title">
             HELLO MY NAME IS <span className="name-highlight">Dipak Bhondave</span>
